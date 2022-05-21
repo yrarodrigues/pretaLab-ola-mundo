@@ -2,6 +2,6 @@
 
 alert('Eu sou Mayra!'); 
  var nome = prompt("Qual o seu nome?");
- var sobrenome = prompt("Digite seu sobrenome:"); 
+ var sobrenome = prompt("Digite seu sobrenome sua MARAVILHOSA:"); 
   
 alert("Seja bem vinda a seu primeiro programa, " + nome + " " + sobrenome+", maravilhosa do Caramba! "); 
